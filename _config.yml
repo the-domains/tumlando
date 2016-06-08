@@ -1,0 +1,14 @@
+layout_spectrum: 0.9295757
+typography_spectrum: 0.270209
+color:
+  saturation: 0.01462685
+  lightness: 0.1045233
+  brandStrength: 0.2683386
+  rhythmicContrast: 0.9558966
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: TumLando
